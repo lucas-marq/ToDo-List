@@ -1,0 +1,1 @@
+Esse é um pequeno projeto em Python que consiste na criação de uma ToDo List
